@@ -6,12 +6,11 @@ Face and mask detection using CNN
 
 ## Requirement
 
-- TensorFlow 2+
-- OpenCV
-- numpy
-- matplotlib
+- Visual Studio Code
+- Aurdino
+- Raspberry Pi
+- Aurdino Workshop 1.8.15
 
-## Reference
+## Explanation
 
-- Dataset: https://github.com/prajnasb/observations
-
+- In this project, I have written a code which detects the motion of the object. I have built a code using Aurdino. It helps in detecting the motion using sensors.
