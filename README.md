@@ -3,6 +3,11 @@
 Motion  detection using Aurdino
 
 ![result.png](https://github.com/c-bhavya-sree/jarwis1/blob/main/motion%20detector.gif)
+
+
+
+
+
 ![result.png](https://github.com/c-bhavya-sree/jarwis1/blob/main/Output.png)
 
 ## Requirement
