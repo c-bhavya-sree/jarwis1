@@ -1,8 +1,8 @@
-#  Face Mask Detection
+#  Motion Detection
 
-Face and mask detection using CNN
+Motion  detection using Aurdino
 
-![result.png](https://github.com/Harshamanipi/slayer/blob/main/img.jpg)
+![result.png](https://github.com/c-bhavya-sree/jarwis1/blob/main/motion%20detector.gif)
 
 ## Requirement
 
